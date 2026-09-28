@@ -97,7 +97,8 @@ The system uses an **Explainable AI rules engine** and confidence-based recommen
 
 ## 🔗 Connect With Me
 
-📧 **Email:** shanmugapandi1006@gmail.com
+📧 **Email:** 
+shanmugapandi1006@gmail.com
 
 💻 **GitHub:**  
 https://github.com/Shanmugapandi006
