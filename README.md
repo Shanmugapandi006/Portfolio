@@ -1,8 +1,8 @@
-# 🌐 Personal Portfolio — Shanmuga Pandi
+# 🌐 Personal Portfolio — Shanmugapandi
 
 Welcome to my personal portfolio! 👋
 
-I am **Shanmuga Pandi**, a B.Tech student specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**.
+I am **Shanmugapandi**, a B.Tech student specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**.
 
 This portfolio showcases my skills, education, project, and interests in AI, Machine Learning, Computer Vision, Robotics, and Full Stack Development.
 
